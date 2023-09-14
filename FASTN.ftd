@@ -6,7 +6,7 @@ favicon: /-/swapnendu003.github.io/fastn-challenge-1/favicon.ico
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
-
+-- fastn.auto-import: swapnendu003.github.io/fastn-challenge-1/components/button
 -- fastn.auto-import: swapnendu003.github.io/fastn-challenge-1/FASTN/ds
 -- fastn.auto-import: swapnendu003.github.io/fastn-challenge-1/assets
 -- fastn.auto-import: doc-site

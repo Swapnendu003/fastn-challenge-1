@@ -1,0 +1,40 @@
+-- component button:
+caption title:
+string link: 
+ftd.color text-color: $inherited.colors.text-strong 
+ftd.color bg-color: $inherited.colors.background.base			
+ftd.color border-color: $inherited.colors.border-strong	
+
+
+-- ftd.text: $button.title
+link: $button.link
+border-width.px: 2
+padding.px: 5
+text-align: center
+style: bold
+border-radius.px: 5
+min-width.fixed.px: 175
+color: $button.text-color                                    
+role: $inherited.types.copy-regular		
+background.solid: $button.bg-color    
+border-color: $button.border-color 
+
+
+-- end: button
+
+-- ftd.color monochrome-dark:
+light: black
+dark: white
+
+-- ftd.color monochrome-light:
+light: white
+dark: black
+
+-- ftd.color shadow-color:
+light: #cae9ee
+dark: #e4b0ac
+
+-- ftd.color background:
+light: #87CEEB
+dark: #FFA07A
+
